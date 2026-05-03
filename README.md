@@ -1,35 +1,61 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=What+I+Cannot+Create,+I+Do+Not+Understand&fontSize=30&fontColor=30&animation=twinkling&fontAlignY=35"/> 
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Iago+Lima;I'm+23+years+old;I+from+Brasil,+SP;I+study+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h2>Olá, eu sou o Iago 👋</h2>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoLima99&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iago Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoLima99&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<p>
+Engenharia de software focada em <b>IA aplicada</b>, <b>automação</b> e <b>experiências digitais confiáveis</b>.
+</p>
+
 </div>
 
-<div align="center">  
-<a href="https://www.instagram.com/moraisl1_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+---
+
+## 🧠 O que eu faço
+
+Desenho e construo **produtos e sistemas reais**, com foco em:
+
+<ul>
+  <li>IA aplicada a problemas concretos (não demos)</li>
+  <li>Automação com governança e segurança</li>
+  <li>UX consistente e determinística</li>
+  <li>Arquitetura preparada para ambientes corporativos</li>
+</ul>
+
+---
+
+## 🚀 Em que estou trabalhando
+
+- Plataformas de **tradução inteligente** (voz + texto)
+- Experiências web com **UX cinematográfica e controle total de estado**
+- Integração de **LLMs** com comportamento previsível
+- Fallbacks inteligentes para ambientes restritos (ex.: redes corporativas)
+
+---
+
+## 🛠️ Tecnologias (ferramentas que uso para entregar resultado)
+
+<p>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="26"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="26"/>
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="26"/>
+<img src="https://cdn.simpleicons.org/node.js/339933" height="26"/>
+<img src="https://cdn.simpleicons.org/google/4285F4" height="26"/>
+<img src="https://cdn.simpleicons.org/git/000000" height="26"/>
+</p>
+
+---
+
+## 📌 Como eu penso produto
+
+<ul>
+  <li>Confiabilidade > hype</li>
+  <li>Fallback não é erro, é design</li>
+  <li>UX precisa ser previsível</li>
+  <li>IA é ferramenta, não protagonista</li>
+</ul>
+
+---
+
+<div align="center">
+<sub>Construindo coisas que funcionam no mundo real.</sub>
 </div>
-  
-
-### Main skills:
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
