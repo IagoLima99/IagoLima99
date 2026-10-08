@@ -59,7 +59,7 @@ Estou desenvolvendo projetos que combinam **Python, APIs, automação e IA**, ex
 
 ---
 
-## 📌 Como eu penso software
+## 📌 Princípios
 
 <ul>
   <li>Problema real antes da tecnologia</li>
