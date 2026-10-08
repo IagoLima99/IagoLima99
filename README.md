@@ -55,8 +55,6 @@ Estou desenvolvendo projetos que combinam **Python, APIs, automação e IA**, ex
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="26"/>
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="26"/>
 <img src="https://cdn.simpleicons.org/git/F05032" height="26"/>
-<img src="https://cdn.simpleicons.org/github/181717" height="26"/>
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="26"/>
 </p>
 
 ---
